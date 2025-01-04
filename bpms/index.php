@@ -59,10 +59,10 @@ $(function () {
           <a href="book-appointment.php" class="btn logo-button top-margin">Get An Appointment</a>
         </div>
       </div>
-      <!-- <nav>
+      <nav>
         <label for="slide-2" class="prev">&#10094;</label>
         <label for="slide-1" class="next">&#10095;</label>
-      </nav> -->
+      </nav>
     </section>
     <header>
       <label for="slide-1" id="slide-1"></label>
