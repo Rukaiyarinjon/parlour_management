@@ -1,4 +1,4 @@
-<section class="w3l-footer-29-main">
+<!-- <section class="w3l-footer-29-main">
     <div class="footer-29 py-5">
       <div class="container py-lg-4">
         <div class="row footer-top-29">
@@ -46,7 +46,7 @@ while ($row=mysqli_fetch_array($ret)) {
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
   <section class="w3l-footer-29-main w3l-copyright">
     <div class="container">
       <div class="row bottom-copies">
